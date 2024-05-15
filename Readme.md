@@ -52,8 +52,14 @@ Used HTML5 attributes rather than using JS to handle the form handlings :
     ```
     - This creates a numeric input field where users can enter numbers within a specified range.
 
-- Difference in datalist and select/option :
-    1. 
-    2. 
-    3. 
+- **Datalist and Select option** :
+    1. Both are used for creating dropdown lists.
+    2. **Datalist** - to Provide auto complete suggestions
+        - allows users to select one of them while _typing_ input field.
+        - It provides autocomplete functionality and suggestions will appear.
+        - User can select one option at a time.
+    3. **Select** - Create dropdown list of options for user selection.
+        - Users can select one or more items.
+        - Users can see all options by clicking on the dropdown arrow.
+        - Supports both single and multiple option selection and value gets submitted to the data.
 
