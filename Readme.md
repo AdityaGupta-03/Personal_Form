@@ -29,7 +29,7 @@ Used HTML5 attributes rather than using JS to handle the form handlings :
 
 - ``` HTML 
     <input type="number" name="quantity" min="1" max="100" step="1">
-```
+    ```
     - This creates a numeric input field where users can enter numbers within a specified range.
 
 - Difference in datalist and select/option :
