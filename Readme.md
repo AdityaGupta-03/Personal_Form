@@ -52,6 +52,8 @@ Used HTML5 attributes rather than using JS to handle the form handlings :
     ```
     - This creates a numeric input field where users can enter numbers within a specified range.
 
+----------
+
 - **Datalist and Select option** :
     1. Both are used for creating dropdown lists.
     2. **Datalist** - to Provide auto complete suggestions
